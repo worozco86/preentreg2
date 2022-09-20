@@ -1,0 +1,8 @@
+ .card:hover{
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(208, 204, 238, 0.5);
+
+ }
+ .card section{
+    display: inline;
+ }
